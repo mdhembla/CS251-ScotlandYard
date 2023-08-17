@@ -1,0 +1,6 @@
+https://stackoverflow.com/questions/9346211/how-to-kill-a-process-on-a-port-on-ubuntu
+https://www.geeksforgeeks.org/difference-equals-method-java/
+https://stackoverflow.com/questions/23459807/when-to-use-java-util-concurrent-semaphores-acquire-and-acquireuninterruptibl
+https://stackoverflow.com/questions/12820874/what-is-the-functionality-of-setsotimeout-and-how-it-works
+https://howtodoinjava.com/java/multi-threading/executorservice-shutdown/#:~:text=shutdown()%20initiates%20an%20orderly,new%20tasks%20will%20be%20accepted.&text=shutdownNow()%20attempts%20to%20stop,tasks%20that%20were%20awaiting%20execution.
+https://docs.oracle.com/javase/tutorial/networking/sockets/clientServer.html
